@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "SubModuleAndroidLib"
-include ':SubModuleAndroidLib'
+include ':SubModuleLib'
